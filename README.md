@@ -26,8 +26,8 @@ methods:
 ## Batch Replacement
 
 Since the PatternMatcher.cfc required a Regular Expression pattern as part of
-it's construction, the batch replacement methods only need a replacement value
-- they will use the embedded pattern to find matches.
+it's construction, the batch replacement methods only need a replacement value - 
+they will use the embedded pattern to find matches.
 
 * replaceAll( replacement ) :: String
 * replaceAllQuoted( replacement ) :: String
